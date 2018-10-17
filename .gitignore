@@ -1,4 +1,7 @@
-*.xml
+
+*.xml
+
 *.xml
 .DS_Store
 *.xml
+/.idea
